@@ -1,5 +1,5 @@
 `
-your-repo/
+data-modeling-project/
 ├─ README.md
 ├─ docs/
 │  ├─ qnf/
