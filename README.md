@@ -1,4 +1,4 @@
-`
+```
 data-modeling-project/
 ├─ README.md
 ├─ docs/
@@ -55,4 +55,4 @@ data-modeling-project/
    ├─ model.pbit                      # template
    └─ screenshots/
       └─ executive_dashboard.png
-`
+```
